@@ -4,3 +4,4 @@
 
 * <https://code.visualstudio.com/docs/languages/java>
 * <https://code.visualstudio.com/docs/java/java-tutorial>
+* <https://code.visualstudio.com/docs/java/java-spring-boot>
